@@ -22,7 +22,7 @@ I explore cutting-edge security techniques and contribute to open-source project
 # What I Do & Find Joy In
 
 - 🔍 **Red Teaming & Threat Simulation**  
-  Specializing in offensive security, adversary emulation, and advanced threat modeling.
+  - Specializing in offensive security, adversary emulation, and advanced threat modeling.
 
 - 🛠️ **Tool Development & Automation**  
   - I create custom tools, scripts, and frameworks to enhance security assessments and streamline workflows.
@@ -37,7 +37,7 @@ I explore cutting-edge security techniques and contribute to open-source project
   - Writing technical blogs, mentoring, and speaking at conferences
 
 - 🌐 **Open Source**
-  Contributing to and maintaining security-focused projects
+  - Contributing to and maintaining security-focused projects
 
 # Online Presence
 
