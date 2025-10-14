@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 # About Me
 
-Hi, I'm Jimmi Aylesworth, also known as b1nary0mega — a passionate information security professional and technologist based in New York. I work in information security playing on both sides, offensive and defense, with a strong focus on building secure systems and empowering others through knowledge sharing.
+Hi, I'm Jimmi Aylesworth, also known as b1nary0mega — a passionate information security professional and technologist based in New York. I work in information security (offense and defense), focusing on building secure systems and empowering others through knowledge sharing.
 
-I currently operate as B1nSec, where I explore cutting-edge security techniques and contribute to open-source projects that help make the digital world safer. My work spans red teaming, malware analysis, and developing custom tooling for security assessments.
+I explore cutting-edge security techniques and contribute to open-source projects that help make the digital world safer. My work spans red teaming, malware analysis, and developing custom tooling for security assessments.
 
 # What I Do
 
