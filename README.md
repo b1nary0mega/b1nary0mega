@@ -38,8 +38,3 @@ I explore cutting-edge security techniques and contribute to open-source project
 
 - 🌐 **Open Source**
   - Contributing to and maintaining security-focused projects
-
-# Online Presence
-
-- 🧑‍💻 GitHub: b1nary0mega
-- 💼 LinkedIn: [James Aylesworth](https://www.linkedin.com/in/jamesaylesworth/)
